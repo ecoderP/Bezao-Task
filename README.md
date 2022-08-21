@@ -1,6 +1,6 @@
 # Bezao-Task
 
-I had to submit before the allocated time because it says on the bezao internship landing page that today, 21st August, 2022 is the last day for application. I am not sure if this affects those that have applied already and given 3 days to complete the task (I hope for some considerations if that is the case).
+It says on the internship landing page that today, 21st August, 2022 is the last day for application. I am not sure if this affects those that have applied already and given time to complete the task (I hope for some consideration if that is the case).
 I don't want to take chances, so I have submitted my links, eventhough I still have more than 2 days on the timer.
 
 ## Task one
